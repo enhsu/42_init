@@ -1,0 +1,16 @@
+# 08
+# many websites online can find the provider of a website, for example:
+#	https://hostadvice.com/tools/whois/
+# we can use this url to find the slash16.org provider:
+#	https://hostadvice.com/tools/whois/#slash16.org
+# also using command line:
+# using:
+#	nslookup slash16.org
+# can provide the ip address of "slash16.org"
+# then use:
+
+	whois 54.192.119.6
+
+# it will show the result of the provider in terminal.
+
+

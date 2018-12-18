@@ -1,0 +1,11 @@
+# 05
+nslookup slash16.org | grep Server | awk '{print $2}
+# reference, stackExchange:
+# https://superuser.com/questions/367969/how-can-i-direct-a-query-to-specific-dns-server
+# For basic A and CNAME records, you can simply do
+#   nslookup somewhere.com some.dns.server
+#
+# man nslookup:
+# Nslookup is a program to query Internet domain name servers.
+
+

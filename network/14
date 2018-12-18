@@ -1,0 +1,9 @@
+# 14
+# I found two files contains the DNS local host information.
+/private/etc/hosts
+/etc/hosts
+# using cat cat display the information.
+# reference: https://hathaway.cc/2008/06/how-to-setup-a-local-dns-host-file-on-mac-os-x/
+# reference: https://www.mactip.net/how-to-edit-the-hosts-file-on-a-mac/
+
+

@@ -1,0 +1,14 @@
+#!/bin/bash
+user_exists=$(getent passwd $1)
+
+if [ -z "$user_exists" ] 
+then
+	echo "User $1 does not exist"
+else
+	userdel -rf $1
+fi
+# reference, delete user: https://linux.die.net/man/8/userdel
+# reference, script: https://unix.stackexchange.com/questions/126507/bash-script-to-remove-user
+# reference, passing arguments to script: https://www.lifewire.com/pass-arguments-to-bash-script-2200571
+
+

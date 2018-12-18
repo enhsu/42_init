@@ -1,0 +1,12 @@
+# 07
+# Figure out the PID of the SSHD service
+#
+cat /var/run/sshd.pid"
+#
+# reference: https://stackoverflow.com/questions/6867669/getting-pid-of-sshd
+#
+sudo service sshd status | grep 'Main PID'
+#
+# reference: https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+
+

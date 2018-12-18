@@ -1,0 +1,10 @@
+# 06
+# Name the command that reboots the SSH service.
+#
+sudo service ssh restart
+#
+# reference: https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+# make sure type this command in root user
+# login root, "$ su" and type password
+
+

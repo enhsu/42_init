@@ -1,0 +1,8 @@
+# 01
+# In what file can you find the installed version of your Debian?
+#
+/etc/debian_version
+#
+# referenct: https://linuxconfig.org/check-what-debian-version-you-are-running-on-your-linux-system
+
+

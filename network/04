@@ -1,0 +1,12 @@
+# 04
+netstat -rn | grep default
+# reference: https://www.rootusers.com/how-to-display-routing-table-in-linux/
+# man netstat:
+#
+# The netstat command symbolically displays the contents of various net-
+# work-related data structures.
+#
+# -n    Show network addresses as numbers
+# -r    Show the routing tables.
+
+

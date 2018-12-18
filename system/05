@@ -1,0 +1,10 @@
+# 05
+# Name the command that determines the state of the SSH service.
+#
+sudo service ssh status
+#
+# reverence: https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+# make sure type this command in root user
+# login root, "$ su" and type password
+
+

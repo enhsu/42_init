@@ -1,0 +1,7 @@
+# 19
+# List all services which are started at boot time and name this kind of services
+#
+service --status-all
+# reference: https://unix.stackexchange.com/questions/108591/list-of-available-services
+
+

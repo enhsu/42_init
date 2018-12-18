@@ -1,0 +1,7 @@
+# 15
+just add
+"46.19.122.85	intra.42.fr"
+into the file /etc/hosts
+# reference: https://www.inmotionhosting.com/support/website/how-to/how-to-edit-your-hosts-file-on-a-mac
+
+

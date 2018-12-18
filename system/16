@@ -1,0 +1,9 @@
+# 16
+# Find the service which makes it possible to run specific tasks following a regular schedule
+#
+cron
+#
+# reference: https://debian-handbook.info/browse/stable/sect.task-scheduling-cron-atd.html
+# also reference: man cron
+
+

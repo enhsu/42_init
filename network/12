@@ -1,0 +1,6 @@
+# 12
+ifconfig en0 | grep inet | awk '{print$2}'
+# reference: https://gtacknowledge.extremenetworks.com/articles/How_To/How-to-find-the-DHCP-server-address-on-a-MAC-OS-X-device
+# reference: https://www.dummies.com/computers/macs/macbook/dhcp-for-automatic-ip-address-assignment-on-your-macbook/
+
+

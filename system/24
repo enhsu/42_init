@@ -1,0 +1,8 @@
+# 24
+# Find the command that list all packages
+#
+apt list --installed
+#
+# reference: https://askubuntu.com/questions/17823/how-to-list-all-installed-packages
+
+

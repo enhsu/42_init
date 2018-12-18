@@ -1,0 +1,8 @@
+# 01
+ifconfig -l
+# man ifconfig:
+# The ifconfig utility displays the current configuration for a network interface when no
+# optional parameters are supplied.
+# The -l flag may be used to list all available interfaces on the system, with no other additional information.
+
+

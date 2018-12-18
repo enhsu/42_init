@@ -1,0 +1,5 @@
+# 02
+networksetup -getinfo Ethernet
+# reference, broadcast address: https://www.techopedia.com/definition/2384/broadcast-address
+
+

@@ -1,0 +1,10 @@
+# 02
+# What command can you use to rename your system?
+#
+sudo hostname <new-host-name-here>
+#
+# reference: https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
+# make sure type this command in root user
+# login root, "$ su" and type password
+
+

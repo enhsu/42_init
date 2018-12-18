@@ -1,0 +1,5 @@
+# 03
+networksetup -getinfo Wi-Fi | grep "Wi-Fi ID" | awk '{print $3}'
+# check if answer is correct: https://www.imss.caltech.edu/node/578
+
+

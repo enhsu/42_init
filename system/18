@@ -1,0 +1,8 @@
+# 18
+# Find the command that kills ssh service
+#
+killall sshd
+#
+# reference: https://unix.stackexchange.com/questions/296250/how-to-stop-an-ssh-server-on-arch-linux
+
+

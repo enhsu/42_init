@@ -1,0 +1,7 @@
+# 17
+# Find the command that allows you to connect via ssh on the VM.(In parallel with the graphic session)
+#
+ssh username@ip_address
+# reference: https://mediatemple.net/community/products/dv/204403684/connecting-via-ssh-to-your-server
+
+

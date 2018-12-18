@@ -1,0 +1,11 @@
+# 15
+# Find the command that kills the background command’s process
+#
+sudo kill <process ID>
+#
+# using "$ jobs" to find the background process
+# using "$ pgrep <process>" to search the process ID
+# also, using "pkill <process name>" is OK.
+# reference: https://unix.stackexchange.com/questions/104821/how-to-terminate-a-background-process
+
+

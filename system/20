@@ -1,0 +1,8 @@
+# 20
+# List all existing users on the VM
+#
+getent passwd | cut -d ':' -f 1
+#
+# reference: https://www.linuxquestions.org/questions/linux-newbie-8/how-to-list-existing-users-337445/
+
+

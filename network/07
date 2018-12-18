@@ -1,0 +1,8 @@
+# 07
+nslookup slash16.org 8.8.8.8
+# man nslookup:
+# host [server]
+# 	Look up information for host using the current default server or using
+# 	server, if specified.
+
+

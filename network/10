@@ -1,0 +1,10 @@
+# 10
+traceroute slash16.org
+# man traceroute:
+# traceroute utilizes the IP protocol `time to live' field and attempts
+# to elicit an ICMP TIME_EXCEEDED response from each gateway along the path to
+# some host.
+# about the parameter, we can use "slash16.org" or IP number like "52.84.245.141"
+# the IP number can be find by "nslookup slash16.org" or "host slash16.org"
+
+
