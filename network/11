@@ -1,5 +1,5 @@
 # 11
-10.112.254.254
+echo "10.112.254.254"
 # from the previous command result
 # e1z2r5p37% traceroute slash16.org
 # traceroute: Warning: slash16.org has multiple addresses; using 52.84.245.141

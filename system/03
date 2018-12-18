@@ -1,7 +1,7 @@
 # 03
 # What file has to be modified to make it permanent?
 #
-/etc/hostname
+echo "/etc/hostname"
 #
 # reference: https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
 

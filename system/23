@@ -1,7 +1,7 @@
 # 23
 # Explain how connect yourself as new user. (With graphic session and ssh session)
 #
-su - <username>
+echo "su - <username>"
 #
 # reference: https://unix.stackexchange.com/questions/3568/how-to-switch-between-users-on-one-terminal
 

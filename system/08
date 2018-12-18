@@ -1,7 +1,7 @@
 # 08
 # What file contains the RSA keys of systems that are authorized to connect via SSH?
 #
-sudo cat /etc/ssh/ssh_host_rsa_key
+echo "sudo cat /etc/ssh/ssh_host_rsa_key"
 #
 # make sure type this command in root user
 # login root, "$ su" and type password
